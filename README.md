@@ -1,5 +1,9 @@
 # My notes:
 This is where I will be documenting my process in learning JS through completing these simple projects.
+## Changelog:
+220202 
+- Cloned from [source repo](https://github.com/john-smilga/javascript-basic-projects)
+- Completed project: Color Flipper
 
 #### Original author's README
 # Javascript Projects
