@@ -1,3 +1,6 @@
+# My notes:
+This is where I will be documenting my process in learning JS through completing these simple projects.
+
 #### Original author's README
 # Javascript Projects
 
@@ -9,5 +12,3 @@ Find the Content Useful? [You can always buy me a coffee](https://www.buymeacoff
 
 [Projects](https://www.vanillajavascriptprojects.com/)
 
-# My notes:
-This is where I will be documenting my process in learning JS through completing these simple projects.
